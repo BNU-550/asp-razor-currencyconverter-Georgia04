@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIWlI9i0iEayZYXDekCeusZBzaHrFPXAb3T4dP3fkxoGYJZD/ObF68FhZ7UQcA9quVGodR5oYsUtY+AadApVOQ==",
+  "dgSpecHash": "ZAP+rRVWEN8cI6IOGavntw8yRtzl6PZeXAWaIe1+85JKfkfph8RSmUCUi+oAQMCBLDcTE67nb3Xt8RRbjturrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georgia\\source\\repos\\RazorCurrencyConverter\\RazorCurrencyConverter\\RazorCurrencyConverter.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\asp-razor-currencyconverter-Georgia04\\RazorCurrencyConverter\\RazorCurrencyConverter\\RazorCurrencyConverter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georgia\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.11\\microsoft.aspnetcore.mvc.razor.extensions.5.0.11.nupkg.sha512",
     "C:\\Users\\georgia\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.11\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.11.nupkg.sha512",

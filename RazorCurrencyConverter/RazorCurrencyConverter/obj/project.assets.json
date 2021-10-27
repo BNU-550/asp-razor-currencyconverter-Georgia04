@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georgia\\source\\repos\\RazorCurrencyConverter\\RazorCurrencyConverter\\RazorCurrencyConverter.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\asp-razor-currencyconverter-Georgia04\\RazorCurrencyConverter\\RazorCurrencyConverter\\RazorCurrencyConverter.csproj",
       "projectName": "RazorCurrencyConverter",
-      "projectPath": "C:\\Users\\georgia\\source\\repos\\RazorCurrencyConverter\\RazorCurrencyConverter\\RazorCurrencyConverter.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\asp-razor-currencyconverter-Georgia04\\RazorCurrencyConverter\\RazorCurrencyConverter\\RazorCurrencyConverter.csproj",
       "packagesPath": "C:\\Users\\georgia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georgia\\source\\repos\\RazorCurrencyConverter\\RazorCurrencyConverter\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\asp-razor-currencyconverter-Georgia04\\RazorCurrencyConverter\\RazorCurrencyConverter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
