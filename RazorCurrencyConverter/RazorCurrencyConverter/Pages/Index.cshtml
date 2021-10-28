@@ -4,13 +4,28 @@
     ViewData["Title"] = "Home page";
 }
 
-<div>
+<div style="background-color:aqua">
     <header class="text-center">
         <h1 class="display-4">Welcome to Razor Pages</h1>
         <h2>by Georgia Gkegka</h2>
     </header>
+    <br/><br/>
+
+    <form method="post" class="mx-auto" style="width:200px">
+        <p class="col-sm-4">
+            <label for="name">Name</label>
+            <input type="text" name="name">
+        </p>
+        <p class="col-sm-4">
+            <label for="email">Email</label>
+            <input type="email" name="email">
+        </p>
+        <p class="col-sm-2">
+        <button type="submit">Register</button>
+        </p> 
+        </form> 
    
-    @**<form method="post" class="text-left">
+    <form method="post" class="text-left">
         <div class="form-group">
             <label for="exampleInputEmail1">Email address</label>
             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
@@ -25,7 +40,7 @@
             <label class="form-check-label" for="exampleCheck1">Check me out</label>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
-    </form>*@
+    </form>
     <br/><br/>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
