@@ -712,3 +712,4 @@ C:\xampp\htdocs\asp-razor-currencyconverter-Georgia04\RazorCurrencyConverter\Raz
 C:\xampp\htdocs\asp-razor-currencyconverter-Georgia04\RazorCurrencyConverter\RazorCurrencyConverter\obj\Debug\net5.0\ref\RazorCurrencyConverter.dll
 C:\xampp\htdocs\asp-razor-currencyconverter-Georgia04\RazorCurrencyConverter\RazorCurrencyConverter\obj\Debug\net5.0\RazorCurrencyConverter.pdb
 C:\xampp\htdocs\asp-razor-currencyconverter-Georgia04\RazorCurrencyConverter\RazorCurrencyConverter\obj\Debug\net5.0\RazorCurrencyConverter.genruntimeconfig.cache
+C:\xampp\htdocs\asp-razor-currencyconverter-Georgia04\RazorCurrencyConverter\RazorCurrencyConverter\obj\Debug\net5.0\Razor\Pages\ConverterRazorPage.cshtml.g.cs
