@@ -8,9 +8,6 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 namespace RazorCurrencyConverter.Pages
 {
 
-    using Microsoft.AspNetCore.Mvc.RazorPages;
-    using Microsoft.AspNetCore.Mvc;
-
     namespace RazorCurrencyConverter.Pages
     {
         public class ConverterRazorPageModel : PageModel
